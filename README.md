@@ -16,8 +16,6 @@ Read the complete rules of UNO [here](https://www.unorules.com/).
 
 This two-player online version of the game was built with [React](https://reactjs.org/), [Socket.IO](https://socket.io/), [Express](https://expressjs.com/) and [Node](https://nodejs.org/en/). It currently supports two-players in each game. It also has text chat functionality to communicate with your opponent!
 
-[How I Made This Game](https://www.youtube.com/watch?v=FBAJdbpFnjs)
-
 ## 🧐 How to Play?
 
 1. Once you're on the homepage of the game, you can either host a new game or join a friend's game.
@@ -82,21 +80,3 @@ This command gets the client running on localhost port 3000.
 Head over to http://localhost:3000/ and enjoy the game! 🎉
 
 
-## 🤝 Contributing
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are greatly appreciated. The **Issues** tab is a good place to begin!
-
-1. Fork the project repo
-2. Clone the forked repo on your machine
-3. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-4. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-5. Push to the branch on your forked repo (`git push origin feature/AmazingFeature`)
-6. Open a pull request
-
-
-## ❤️ Acknowledgements
-
-* [Chirantan P](https://www.linkedin.com/in/chirantan-pradhan-76673019b/) for the background images
-* [AlexDer](https://alexder.itch.io/) for the UNO cards assets
-* [3mil1](https://codepen.io/3mil1) for the button designs
-* [Divyank](https://codepen.io/Pahlaz) for the chat box design
