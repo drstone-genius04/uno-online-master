@@ -10,14 +10,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mizanxali/uno-online.git"
+    "url": ""
   },
-  "author": "Mizan Ali",
+  "author": "allan",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/mizanxali/uno-online/issues"
-  },
-  "homepage": "https://github.com/mizanxali/uno-online#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.17.1",
