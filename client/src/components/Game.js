@@ -23,7 +23,7 @@ import gameOverSound from '../assets/sounds/game-over-sound.mp3'
 
 let socket
 // const ENDPOINT = 'http://localhost:5000'
-const ENDPOINT = 'http://localhost:5000'
+const ENDPOINT = 'https://uno-game-allan.herokuapp.com/'
 
 const Game = (props) => {
     const data = queryString.parse(props.location.search)
